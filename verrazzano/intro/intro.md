@@ -1,4 +1,4 @@
-# Introduction by Sid
+# Introduction
 
 ## About this Workshop
 
